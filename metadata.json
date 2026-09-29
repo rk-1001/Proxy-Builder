@@ -1,0 +1,6 @@
+{
+  "name": "Proxy Builder Android",
+  "description": "Android app for Proxy Builder — enhance VLESS & Trojan URLs with fragment & fingerprint, chain proxy configs to Xray & Sing-box/Nekobox, with background proxy execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
